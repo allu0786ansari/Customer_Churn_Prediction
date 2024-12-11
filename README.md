@@ -24,4 +24,4 @@ This project serves as a practical implementation of AI in business analytics, d
 7. In the terminal navigate to your project directory and hit the command to run the app: streamlit run app.py
 
 ## Output
-![App Screenshot]()
+![App Screenshot](https://github.com/allu0786ansari/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction_output.png)
