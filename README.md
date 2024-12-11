@@ -10,4 +10,5 @@ Key Features of the Project
 * Scikit-learn Pipelines: Used for encoding, scaling, and feature engineering.
 * Streamlit Dashboard: An interactive and user-friendly interface for churn prediction based on user inputs.
 * Interpretability: Understand the factors contributing to customer churn with easy-to-read visualizations and insights.
+  
 This project serves as a practical implementation of AI in business analytics, demonstrating how predictive modeling can aid in decision-making and customer management. Whether you're looking to explore data science, machine learning, or streamline business strategies, this project provides a hands-on approach to tackling real-world challenges in customer churn.
