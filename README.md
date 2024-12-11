@@ -1,4 +1,4 @@
-
+### Customer Churn Prediction
 ## Introduction
 Customer churn prediction is a critical aspect of customer relationship management, aimed at identifying customers who are likely to leave or discontinue a service. Understanding and predicting customer churn can help businesses take proactive steps to retain valuable customers, optimize marketing strategies, and reduce revenue loss.
 
