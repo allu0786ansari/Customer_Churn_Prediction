@@ -12,3 +12,13 @@ Key Features of the Project
 * Interpretability: Understand the factors contributing to customer churn with easy-to-read visualizations and insights.
   
 This project serves as a practical implementation of AI in business analytics, demonstrating how predictive modeling can aid in decision-making and customer management. Whether you're looking to explore data science, machine learning, or streamline business strategies, this project provides a hands-on approach to tackling real-world challenges in customer churn.
+
+
+## Implementation
+1. Create a virtual Environment: conda create -p venv python==2.11 -y || python -m venv environ_name
+2. Activate the virtual environment: environ_name\Scripts\Activate
+3. create a requirements.txt file and use this command to install the libraries: pip install -r requiements.txt
+4. If you'r using your device, install ipykernel and run then run the experiments.ipynb and prediction.ipynb.
+5. You will get the .pkl files as the output and  model.ht saved as model.
+6. I have used tensorboard for visualization the training process, after executing the session in experiments.ipynb, click the launch tensorboard session and select the folder fit which is saved in logs, tensorboard will be launched.
+7. In the terminal navigate to your project directory and hit the command to run the app: streamlit run app.py
