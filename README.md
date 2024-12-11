@@ -22,3 +22,6 @@ This project serves as a practical implementation of AI in business analytics, d
 5. You will get the .pkl files as the output and  model.ht saved as model.
 6. I have used tensorboard for visualization the training process, after executing the session in experiments.ipynb, click the launch tensorboard session and select the folder fit which is saved in logs, tensorboard will be launched.
 7. In the terminal navigate to your project directory and hit the command to run the app: streamlit run app.py
+
+## Output
+![App Screenshot]()
