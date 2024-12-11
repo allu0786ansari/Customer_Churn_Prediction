@@ -1,5 +1,4 @@
-### Customer Churn Prediction
-## Introduction
+## Customer Churn Prediction
 Customer churn prediction is a critical aspect of customer relationship management, aimed at identifying customers who are likely to leave or discontinue a service. Understanding and predicting customer churn can help businesses take proactive steps to retain valuable customers, optimize marketing strategies, and reduce revenue loss.
 
 This project leverages machine learning to predict customer churn based on various factors such as demographics, account details, and transaction patterns. By using historical data, we develop a predictive model that classifies whether a customer is likely to churn or remain loyal.
@@ -22,6 +21,15 @@ This project serves as a practical implementation of AI in business analytics, d
 5. You will get the .pkl files as the output and  model.ht saved as model.
 6. I have used tensorboard for visualization the training process, after executing the session in experiments.ipynb, click the launch tensorboard session and select the folder fit which is saved in logs, tensorboard will be launched.
 7. In the terminal navigate to your project directory and hit the command to run the app: streamlit run app.py
+
+## Project Directory
+
+## Models Details and Tech Stack Used
+
+## Credits and Acknowledgements
+## Future Improvement
+## Contact Information
+
 
 ## Output
 ![App Screenshot](https://github.com/allu0786ansari/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction_output.png)
