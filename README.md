@@ -23,6 +23,25 @@ This project serves as a practical implementation of AI in business analytics, d
 7. In the terminal navigate to your project directory and hit the command to run the app: streamlit run app.py
 
 ## Project Directory
+# Project Directory Structure
+
+Here is an overview of the project's directory structure:
+
+```plaintext
+Project_Name/
+├── app.py                         # Main application file
+├── Churn_Modelling.csv            # Dataset for churn modeling
+├── Customer_Churn_Prediction_output.png # Output visualization
+├── experiments.ipynb              # Jupyter notebook for experiments
+├── label_encoder_gender.pkl       # Encoded gender data
+├── LICENSE                        # License information
+├── model.h5                       # Trained ML model
+├── onehot_encoder_geo.pkl         # One-hot encoder for geography
+├── prediction.ipynb               # Prediction-related notebook
+├── README.md                      # Project documentation
+├── requirements.txt               # Python dependencies
+├── scaler.pkl                     # Scaler for feature scaling
+```
 
 ## Models Details and Tech Stack Used
 
