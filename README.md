@@ -158,3 +158,5 @@ For any inquiries related to this project, please don't hesitate to contact me!
 
 ## Output
 ![App Screenshot](https://github.com/allu0786ansari/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction_output.png)
+![App Screenshot](https://github.com/allu0786ansari/Customer_Churn_Prediction/blob/main/Model_Training_Visualization.png)
+
