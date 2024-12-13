@@ -147,6 +147,14 @@ By addressing these areas, the project can evolve into a more robust, scalable, 
 
 ## Contact Information
 
+If you have any questions, feedback, or collaboration ideas, feel free to reach out:
+
+- **Author:** Allaudin Ansari  
+- **Email:** allu456654ansari@gmail.com  
+- **GitHub Profile:** [Allaudin Ansari](https://github.com/allu0786ansari)  
+
+For any inquiries related to this project, please don't hesitate to contact me!
+
 
 ## Output
 ![App Screenshot](https://github.com/allu0786ansari/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction_output.png)
