@@ -43,7 +43,41 @@ Project_Name/
 ├── scaler.pkl                     # Scaler for feature scaling
 ```
 
-## Models Details and Tech Stack Used
+## Model Details
+
+The project employs a machine learning model to predict customer churn based on various features. Below are the details of the models and techniques used:
+
+- **Trained Model:** The model is stored as `model.h5`.
+- **Data Preprocessing:** 
+  - Encoded gender using `label_encoder_gender.pkl`.
+  - One-hot encoded geography using `onehot_encoder_geo.pkl`.
+  - Applied feature scaling using `scaler.pkl`.
+- **Evaluation Metrics:** 
+  - Accuracy, Precision, Recall, F1-score.
+  - Confusion Matrix for performance analysis.
+- **Input Dataset:** The dataset used for training and evaluation is `Churn_Modelling.csv`.
+
+---
+
+## Tech Stack Used
+
+The following technologies and tools were utilized to build this project:
+
+- **Programming Language:** Python
+- **Libraries/Frameworks:**
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - TensorFlow/Keras
+  - TensorBoard (for visualization)
+  - Streamlit
+- **Development Tools:**
+  - Jupyter Notebook
+  - Git for version control
+- **IDE/Editor:** Visual Studio Code / Jupyter Notebook
+- **Environment:** Python Virtual Environment (`churnvenv`)
+- **Operating System:** Compatible with Windows, macOS, and Linux
+
 
 ## Credits and Acknowledgements
 ## Future Improvement
