@@ -1,4 +1,4 @@
-## Customer Churn Prediction
+# Customer Churn Prediction
 Customer churn prediction is a critical aspect of customer relationship management, aimed at identifying customers who are likely to leave or discontinue a service. Understanding and predicting customer churn can help businesses take proactive steps to retain valuable customers, optimize marketing strategies, and reduce revenue loss.
 
 This project leverages machine learning to predict customer churn based on various factors such as demographics, account details, and transaction patterns. By using historical data, we develop a predictive model that classifies whether a customer is likely to churn or remain loyal.
@@ -79,7 +79,7 @@ The following technologies and tools were utilized to build this project:
 - **Operating System:** Compatible with Windows, macOS, and Linux
 
 
-# Credits and Acknowledgements
+## Credits and Acknowledgements
 
 This project would not have been possible without the guidance, tools, and resources provided by the following:
 
